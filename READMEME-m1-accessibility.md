@@ -56,7 +56,7 @@ your app!
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](../Assets/01-html-css-git-challenge-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./SS/01-html-css-git-challenge-demo.png)
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that
 > some of the elements don't look like the mock-up at a resolution smaller than
