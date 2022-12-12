@@ -2,10 +2,10 @@
 
 ## Description
 
-The challenge is an on-the-job ticket, which means you begin with starter code
-that needs to be refactored (refactor code is to improve it without changing
-what it does) to meet a certain set of standards or implement a new technology.
-It involves a very important aspect of web development: **accessibility**.
+The challenge is on-the-job ticket, which means you begin with starter code that
+needs to be refactored (refactor code is to improve it without changing what it
+does) to meet a certain set of standards or implement a new technology. It
+involves a very important aspect of web development: **accessibility**.
 
 Web accessibility is an increasingly important consideration nowadays. It
 ensures that people with disabilities can access a website using assistive
@@ -29,16 +29,16 @@ Follow these instructions to create your project and deploy it to GitHub Pages:
 
 1. Create a new repository on your GitHub account and clone it to your computer.
 
-2. When you're ready to deploy, use the `git add`, `git commit`, and `git push`
+1. When you're ready to deploy, use the `git add`, `git commit`, and `git push`
    commands to save and push your code to your GitHub repository.
 
-3. Navigate to your GitHub repository in the browser and then select the
+1. Navigate to your GitHub repository in the browser and then select the
    Settings tab on the right side of the page.
 
-4. On the Settings page, scroll down to the GitHub Pages section. Then, in the
+1. On the Settings page, scroll down to the GitHub Pages section. Then, in the
    section labeled Source, select the `main` branch as your source.
 
-5. Navigate to <your-github-username.github.io/your-repository-name> and you
+1. Navigate to <your-github-username.github.io/your-repository-name> and you
    will find that your new webpage has gone live! For example, if your GitHub
    username is "lernantino" and the project is "css-demo-site", then your URL
    would be <lernantino.github.io/css-demo-site>.
@@ -56,7 +56,7 @@ your app!
 
 The following image shows the web application's appearance and functionality:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](Assets/01-html-css-git-challenge-demo.png)
+![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](../Assets/01-html-css-git-challenge-demo.png)
 
 > **Note**: This layout is designed for desktop viewing, so you may notice that
 > some of the elements don't look like the mock-up at a resolution smaller than
